@@ -3,8 +3,9 @@ def addition(num1 = 5,num2 = 4)
 
 end
 
-def subtraction(num1, num2)
-
+def subtraction(num1 = 10,num2 = 5)
+  when "subtracts two numbers from each other" do
+    
 end
 
 def division(num1, num2)
